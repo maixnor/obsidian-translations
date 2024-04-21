@@ -437,35 +437,35 @@
 	},
 	"editor": {
 		"search": {
-			"placeholder-find": "Find",
-			"placeholder-replace": "Replace",
-			"label-previous": "Prev",
-			"label-next": "Next",
-			"label-all": "All",
-			"label-exit-search": "Exit search",
-			"label-replace": "Replace",
-			"label-replace-all": "Replace all"
+			"placeholder-find": "Hitta",
+			"placeholder-replace": "Byta ut",
+			"label-previous": "Sista",
+			"label-next": "Nästa",
+			"label-all": "Alla",
+			"label-exit-search": "Slut sök",
+			"label-replace": "Byta ut",
+			"label-replace-all": "Byta ut alla"
 		},
 		"link-suggestion": {
-			"label-type-hash": "Type #",
-			"label-link-heading": "to link heading",
-			"label-type-block": "Type ^",
-			"label-link-block": "to link blocks",
-			"label-type-pipe": "Type |",
-			"label-change-display-text": "to change display text",
-			"label-no-match-found": "No match found"
+			"label-type-hash": "Skriv #",
+			"label-link-heading": "för att länka överskriv",
+			"label-type-block": "Skriv ^",
+			"label-link-block": "för att länka block",
+			"label-type-pipe": "Skriv |",
+			"label-change-display-text": "för att redigera visades text",
+			"label-no-match-found": "Ingen match"
 		},
 		"spellcheck": {
-			"no-suggestion": "No suggestions...",
-			"add-to-dictionary": "Add to dictionary"
+			"no-suggestion": "Inga förslag...",
+			"add-to-dictionary": "Lägg till ordbok"
 		},
 		"menu": {
-			"edit-link": "Edit link",
-			"label-edit-block": "Edit this block"
+			"edit-link": "Redigera länk",
+			"label-edit-block": "Redigera denna block"
 		},
 		"heading-suggestion": {
-			"label-no-heading": "No heading",
-			"label-heading-level": "Heading {{level}}"
+			"label-no-heading": "Ingen överskrivning",
+			"label-heading-level": "Överskrivning {{level}}"
 		},
 		"print-modal": {
 			"title": "Export to PDF",
